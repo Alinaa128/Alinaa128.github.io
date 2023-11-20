@@ -23,6 +23,7 @@ nav ul {
 nav ul li {
   display: inline;
   margin-right: 10px;
+  text-color: white;
 }
 .colored-background {
   background-color: #57b4ff;
